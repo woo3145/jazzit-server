@@ -1,1 +1,11 @@
 ## JAZZiT Server
+
+### ENV
+
+```
+DATABASE_HOST=string
+DATABASE_PORT=string
+DATABASE_USERNAME=string
+DATABASE_PASSWORD=int
+DATABASE_DBNAME=string
+```
